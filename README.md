@@ -11,3 +11,8 @@ To get started:
 1. Have Fun!
 
 **Note: This program is built to run on Python 3.**
+
+Custom room:
+The custom room in the game is south of the cave. There is nothing inside of it at the moment, it it mostly just an easter egg, however,
+if I finished part C there would be a weapon that could kill the grue, and other items that would be useful in the game. It is still 
+possible for the user to get kiled by the grue.
